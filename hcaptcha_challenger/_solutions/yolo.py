@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Time       : 2022/3/2 0:52
-# Author     : QIN2DIM
-# Github     : https://github.com/QIN2DIM
+# Author     : BlankRoad
+# Github     : https://github.com/BlankRoad1
 # Description:
 import cv2
 import numpy as np

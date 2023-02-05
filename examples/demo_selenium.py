@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Time       : 2022/9/23 17:28
 # Author     : QIN2DIM
-# Github     : https://github.com/QIN2DIM
+# Github     : https://github.com/BlankRoad1
 # Description:
 import time
 import typing

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Time       : 2022/2/15 17:43
-# Author     : QIN2DIM
+# Author     : BlankRoad
 # Github     : https://github.com/BlankRoad1
 # Description:
 import os

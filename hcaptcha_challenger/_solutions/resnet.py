@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Time       : 2022/4/30 17:00
-# Author     : Bingjie Yan
-# Github     : https://github.com/beiyuouo
+# Author     : BlankRoad
+# Github     : https://github.com/BlankRoad1
 # Description:
 import os
 import typing
